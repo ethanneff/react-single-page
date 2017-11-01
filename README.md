@@ -1,5 +1,7 @@
 # Teamtreehouse - React 
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ethanneff/react-single-page.svg)](https://greenkeeper.io/)
+
 ## Webpack Basics
 
   - similar to gulp or grunt
